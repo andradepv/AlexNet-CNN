@@ -68,14 +68,7 @@ Projeto desenvolvido para a disciplina **Tópicos para Computação 1 – 2026.1
 - **Instituição:** Escola Superior de Tecnologia  
 - **Professora:** Profa. Dra. Elloá B. Guedes  
 - **Data da atividade:** 19/03/2026  
-- **Data de entrega:** 23/03/2026  
-
-## Equipe
-
-- Adriana Raffaella  
-- Cristiano Peniche  
-- Henrique Furtado  
-- Paulo Andrade  
+- **Data de entrega:** 23/03/2026
 
 ---
 
